@@ -1,0 +1,8 @@
+VARIABLES: Nos sirven para almacenar texto o números que podemos usar después
+STRINGS: Datos de texto
+BOOLEANS: Datos que solo dan como resultado Verdadero o falso
+UNDEFINED: Dato que no está creado
+NULL: Dato que está creado pero no tiene valor asignado
+OPERADORES: Nos permiten hacer operaciones con los datos
+== : Es una comparación solo de valor
+=== : Es una comparación de valor y tipo de dato 
